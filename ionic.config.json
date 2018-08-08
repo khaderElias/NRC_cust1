@@ -1,0 +1,10 @@
+{
+  "name": "moodlemobile2",
+  "integrations": {},
+  "watchPatterns": [
+    "www/**/*.html",
+    "www/build/**/*",
+    "www/index.html",
+    "!www/lib/**/*"
+  ]
+}
